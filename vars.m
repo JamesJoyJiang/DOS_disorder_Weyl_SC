@@ -4,7 +4,7 @@ pbc=1;
 mu=0.2;  E=0.03;
 % E and ky,kz switched global properties :April 10,2017 
 
-R_shift=1.02;  kz=0.85;   ky=0.1;
+R_shift=1.1;  kz=0.85;   ky=0.1;
 
 % R_shift=0.8;kz=0.6;
 %  R_shift=1.02;kz=0.2;
@@ -27,7 +27,7 @@ NE=1000;
 
  
 
-Kymin=0.3; Emin=0.3;
+Kymin=0.35; Emin=0.3;
 kz1=sqrt(1-mu+R_shift);
 kz2=sqrt(1+mu-R_shift); 
 kzmax=max(abs(kz1),abs(kz2));
