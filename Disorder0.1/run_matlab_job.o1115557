@@ -1521,5 +1521,5 @@ filenamemat =
 
 TRY-r=1.1,mu=0.2,Disorder=0.1,NX=100,NY=300,NZ=300,DeltaX=0.04,eta=0.0001.mat
 
-Elapsed time is 3878.406665 seconds.
+Elapsed time is 3852.838264 seconds.
 /home-4/yjiang48@jhu.edu/work/Yi_3D_DOS/DOS_disorder/DOS_disorder_Weyl_SC/Disorder0.1

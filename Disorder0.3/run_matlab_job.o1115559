@@ -14,7 +14,7 @@ For product information, visit www.mathworks.com.
 
 filename =
 
-TRY-r=1.1,mu=0.2,Disorder=0.1,NX=100,NY=300,NZ=300,DeltaX=0.04,eta=0.0001
+TRY-r=1.1,mu=0.2,Disorder=0.3,NX=100,NY=300,NZ=300,DeltaX=0.04,eta=0.0001
 
 
 nz =
@@ -1519,7 +1519,7 @@ nz =
 
 filenamemat =
 
-TRY-r=1.1,mu=0.2,Disorder=0.1,NX=100,NY=300,NZ=300,DeltaX=0.04,eta=0.0001.mat
+TRY-r=1.1,mu=0.2,Disorder=0.3,NX=100,NY=300,NZ=300,DeltaX=0.04,eta=0.0001.mat
 
-Elapsed time is 3878.406665 seconds.
-/home-4/yjiang48@jhu.edu/work/Yi_3D_DOS/DOS_disorder/DOS_disorder_Weyl_SC/Disorder0.1
+Elapsed time is 3824.890472 seconds.
+/home-4/yjiang48@jhu.edu/work/Yi_3D_DOS/DOS_disorder/DOS_disorder_Weyl_SC/Disorder0.3
