@@ -4,7 +4,7 @@ pbc=1;
 mu=0.2;  E=0.03;
 % E and ky,kz switched global properties :April 10,2017 
 
-R_shift=0.5;  kz=0.93;   ky=0.1;
+R_shift=1.05;  kz=0.93;   ky=0.1;
 
 % R_shift=0.8;kz=0.6;
 %  R_shift=1.02;kz=0.2;
